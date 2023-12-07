@@ -4,7 +4,7 @@
 
 # Camunda 8 Fast API application
 
-This project is designed to show how to use [pyzeebe](https://pyzeebe.readthedocs.io/en/stable/index.html) with FastAPI. This project is a draft. 
+This project is designed to show how to use [pyzeebe](https://pyzeebe.readthedocs.io/en/stable/index.html) with [FastAPI](https://fastapi.tiangolo.com/). This project is a draft. 
 For now, this application only runs against Camunda 8 SaaS. It should not be too complex to make it available to Camunda 8 SM but that's not my priority now. Feel free to propose PR if you want to :)
 
 # Install poetry and activate virtual env
